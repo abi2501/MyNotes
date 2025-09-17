@@ -1,0 +1,21 @@
+
+# Linux Commands
+- whoami
+
+- sudo bash
+	- go to root user
+- su abi
+	- go to user 
+
+- Create a new user and pwd
+	- sudo useradd daffy
+ 	- sudo passwd daffy
+
+ - Create a file 
+	- sudo vi  text.txt
+	press i to insert
+
+- verbose mode
+- 	
+
+chown 777 text.txt -> giving permission 777
