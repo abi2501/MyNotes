@@ -1,11 +1,15 @@
 
 # Linux Commands
 - whoami
+- uname -a 
+		-  get os details
+- clear or press ctl + l
+	- clear console
 
 - sudo bash
 	- go to root user
 - su abi
-	- go to user 
+	- go to user
 
 - Create a new user and pwd
 	- sudo useradd daffy
