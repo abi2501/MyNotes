@@ -1,0 +1,21 @@
+.Hex file info
+
+root - INFO - :0400000300000000F9
+      
+:04 0000 03 00 00 00 00 F9
+
+: - start code
+04 - byte count (4)
+0000 - address offset(2 bytes)
+03 - record type
+data - 00 00 00 00
+checksum - F9 (1 byte)
+
+
+:10FFF000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF11
+:
+10
+FFF0
+00
+
+:00000001FF
